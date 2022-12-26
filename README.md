@@ -1,5 +1,5 @@
 
-Patika.dev iş birliğiyle gerçekleştirilen HuaweiCloudPracticum case proje adımlarını burada paylaşıyor olacağım
+# HuaweiCloudPracticum 
 
 HDC.Cloud Days 2022
 https://www.youtube.com/watch?v=WTxxekRIfiw&t=3541s
